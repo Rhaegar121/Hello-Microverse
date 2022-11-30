@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -57,17 +57,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello_Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> My First solo Project in week 1 Microverse. 
 
-**[your_project__name]** is a...
+**[Hello_Microverse]** is a html and css with a linter setup.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> HTML and CSS
 
 <details>
   <summary>Client</summary>
@@ -94,7 +94,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> Simple Hello Microverse Project.
 
 - **[key_feature_1]**
 - **[key_feature_2]**
